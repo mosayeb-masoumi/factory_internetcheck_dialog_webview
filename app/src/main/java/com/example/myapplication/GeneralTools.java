@@ -27,6 +27,7 @@ public class GeneralTools {
     }
 
 
+
     //check network connectivity
     public boolean checkInternetConnection(Context context) {
 
